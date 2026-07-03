@@ -1,1 +1,2 @@
-![logo](https://web.telegram.org/bd068f5a-9f06-4d27-a5e4-5834a6481735)
+<h1 align="center">Hi there, I'm Polina</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
